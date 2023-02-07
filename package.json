@@ -1,0 +1,23 @@
+{
+  "name": "javascrip",
+  "version": "1.0.0",
+  "description": "esto es un entorno de javascript",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmanuelLopezGarcia/Javascrip.git"
+  },
+  "keywords": [
+    "node",
+    "es6"
+  ],
+  "author": "ricardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EmmanuelLopezGarcia/Javascrip/issues"
+  },
+  "homepage": "https://github.com/EmmanuelLopezGarcia/Javascrip#readme"
+}
